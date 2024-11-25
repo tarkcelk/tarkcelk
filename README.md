@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarık Çelik</h1>
-<h3 align="center">A passionate React Native engineer from Turkey</h3>
+<h3 align="center">A passionate Software engineer from Turkey</h3>
 
 - 🔭 I’m currently working on [UPTION](https://www.uption.com.tr/)
 
