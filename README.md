@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tarkcelk@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=tarkcelk&label=Profile+Views)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
